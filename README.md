@@ -18,6 +18,7 @@
 * Project running on Azure App Service
 
 * Project cloned into Azure Cloud Shell
+![](./screenshots/02-PrjClonedIntoACS.png)
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
 
