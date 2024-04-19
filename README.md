@@ -8,7 +8,7 @@ This project is an sample of CI/CD using Azure DevOps. This repo will enable you
 
 ## Project Plan
 
-* Trello board for the project: [Trello link](https://trello.com/invite/b/4pBYlosv/ATTI0f0017ffb2e91391630a7026edfac431750C5A2A/azure-cloud-project-2)
+* Trello board for the project: [Trello link](https://trello.com/b/4pBYlosv/azure-cloud-project-2)
 * Spreadsheet project plan: [GoogleSheet link](https://docs.google.com/spreadsheets/d/1KYGz4-JPhHJg1KEsSaAOcNnVr4G41t1C/edit?usp=sharing&ouid=104543931335870760692&rtpof=true&sd=true)
 
 ## Instructions
