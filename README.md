@@ -1,21 +1,23 @@
 # Overview
+[![Python application](https://github.com/heyan17/azure-devops-udacity-prj2/actions/workflows/python-app.yml/badge.svg?branch=main)](https://github.com/heyan17/azure-devops-udacity-prj2/actions/workflows/python-app.yml)
 
-<TODO: complete this with an overview of your project>
+This project is an sample of CI/CD using Azure DevOps. This repo will enable you to:
+- Deploy an application in Azure Cloud Shell
+- Deploy an application as an Azure App Service
+- Load testing
 
 ## Project Plan
-<TODO: Project Plan
 
-* A link to a Trello board for the project
-* A link to a spreadsheet that includes the original and final project plan>
+* Trello board for the project: [Trello link](https://trello.com/invite/b/4pBYlosv/ATTI0f0017ffb2e91391630a7026edfac431750C5A2A/azure-cloud-project-2)
+* Spreadsheet project plan: [GoogleSheet link](https://docs.google.com/spreadsheets/d/1KYGz4-JPhHJg1KEsSaAOcNnVr4G41t1C/edit?usp=sharing&ouid=104543931335870760692&rtpof=true&sd=true)
 
 ## Instructions
 
-<TODO:  
-* Architectural Diagram (Shows how key parts of the system work)>
-
-<TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
+* Architectural Diagram
+![](./screenshots/01-CDdiagram.png)
 
 * Project running on Azure App Service
+
 
 * Project cloned into Azure Cloud Shell
 ![](./screenshots/02-PrjClonedIntoACS.png)
