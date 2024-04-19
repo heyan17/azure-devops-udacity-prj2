@@ -8,7 +8,7 @@ trigger:
 
 variables:
   # Azure Resource Manager connection created during pipeline creation
-  azureServiceConnectionId: '677a86b2-21ab-4470-bd22-cebd3ed04856'
+  azureServiceConnectionId: 'f5ca4fc5-720f-4396-9a26-4fc8df57ac24'
 
   # Web app name
   webAppName: 'anazdudaprj2'
@@ -26,7 +26,7 @@ variables:
   projectRoot: $(System.DefaultWorkingDirectory)
 
   # Python version: 3.x
-  pythonVersion: '3.9'
+  pythonVersion: '3.8.10'
 
 stages:
 - stage: Build
