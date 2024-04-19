@@ -1,0 +1,1 @@
+az webapp up --name flaskappanprj2 --resource-group Azuredevops --sku B1

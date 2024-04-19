@@ -20,9 +20,12 @@
 * Project cloned into Azure Cloud Shell
 ![](./screenshots/02-PrjClonedIntoACS.png)
 
-* Passing tests that are displayed after running the `make all` command from the `Makefile`
+* Passing tests that are displayed after running the `make all` command from the `Makefile` including output of the test run
+![](./screenshots/03-PassingMakeAllTes.png)
 
-* Output of a test run
+
+** Passing GitHub Action build
+![](./screenshots/04-PassingGitActionBuild.png)
 
 * Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
 
