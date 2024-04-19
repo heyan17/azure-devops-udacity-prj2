@@ -29,26 +29,25 @@ This project is an sample of CI/CD using Azure DevOps. This repo will enable you
 ** Passing GitHub Action build
 ![](./screenshots/04-PassingGitActionBuild.png)
 
-* Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
+* Successful deploy of the project in Azure Pipelines.
+![](./screenshots/05-DeployProjectInAzure.png)
 
 * Running Azure App Service from Azure Pipelines automatic deployment
+![](./screenshots/06-RunningAzureAppService.png)
 
-* Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
-The output should look similar to this:
-
-```bash
-udacity@Azure:~$ ./make_predict_azure_app.sh
-Port: 443
-{"prediction":[20.35373177134412]}
-```
+* Successful prediction from deployed flask app in Azure Cloud Shell. 
+![](./screenshots/07-PredictInACS.png)
 
 * Output of streamed log files from deployed application
+![](./screenshots/08-OutputOfStreamedLogFiles.png)
 
-> 
+`https://anazdudaprj2.scm.azurewebsites.net/api/logs/docker`
+![](./screenshots/09-LogFiles.png)
 
 ## Enhancements
 
-<TODO: A short description of how to improve the project in the future>
+- There should be branch for development environment and testing environment separately.
+- There should be an mantenance page UI befor production deployment.
 
 ## Demo 
 
