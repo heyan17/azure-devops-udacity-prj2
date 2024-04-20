@@ -14,10 +14,12 @@ This project is an sample of CI/CD using Azure DevOps. This repo will enable you
 ## Instructions
 
 * Architectural Diagram
+
 ![](./screenshots/01-CDdiagram.png)
 
 * Project running on Azure App Service
-
+abc
+![](./screenshots/02-RunningProject.png)
 
 * Project cloned into Azure Cloud Shell
 ![](./screenshots/02-PrjClonedIntoACS.png)
@@ -51,6 +53,6 @@ This project is an sample of CI/CD using Azure DevOps. This repo will enable you
 
 ## Demo 
 
-<TODO: Add link Screencast on YouTube>
+Youtube video: https://youtu.be/oBWjMsrTvx0
 
 
